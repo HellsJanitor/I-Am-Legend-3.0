@@ -84,7 +84,7 @@ However, if Samantha should die ... she'll be **gone for good**. There is a **re
 >[!IMPORTANT]
 > **DO NOT** delete this file. It is required for the mod's functionality.
  
-### PROLOGUE
+### EPILOGUE
 
 In 2009 a deadly virus burned through our civilization, pushing humankind to the edge of extinction.
 
