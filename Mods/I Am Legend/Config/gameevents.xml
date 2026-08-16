@@ -1,4 +1,6 @@
 <Hells_Janitor>	
+	<set xpath="/gameevents/action_sequence[@name='block_car_alarm_start']/action[@class='SpawnEntity']/property[@name='entity_names']/@value">zombieDarkseekerSpitterFeral</set>
+	
 	<append xpath="/gameevents">
 		<action_sequence name="action_kill_nightspawns">
 			<property name="action_type" value="Game"/>

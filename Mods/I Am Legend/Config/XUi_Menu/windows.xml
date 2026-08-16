@@ -32,6 +32,24 @@
 	
 	<remove xpath="//window[@name='mainMenuNews']/rect[@name='game']"/>
 	<remove xpath="//window[@name='mainMenuNews']/rect[@name='featured']"/>
+	
+	<set xpath="/windows/window[@name='loadingScreen']">
+		<fullscreencollider name="pnlBlack" color="0,0,0,255" />
+
+		<texture depth="2" color="[white]" texture="{background_texture}" name="loading_image" anchor_left="#cam,0,0" anchor_bottom="#cam,0,0" anchor_right="#cam,1,0" anchor_top="#cam,1,0" keepsourceaspectratio="true" />
+
+		<sprite depth="1" anchor_left="#cam,0,-100" anchor_right="#cam,1,100" anchor_bottom="#cam,0,249" anchor_top="#cam,0,350" name="backgroundMain" sprite="ui_interface_gradient_strip" color="0,0,0,255" globalopacitymod="0" type="sliced" fillcenter="true" flip="vertically" />
+		
+		<rect name="tips_enabled" visible="{show_tips}">
+			<label name="lblTitle"    depth="6" anchor_left="#cam,0,20"   anchor_right="#cam,1,-280" anchor_bottom="#cam,0,180" anchor_top="#cam,0,240" font_size="50" color="230,26,22" justify="left" parse_actions="true" text="{title}" upper_case="true" />
+		
+			<label name="lblLeft"     depth="6" anchor_left="#cam,1,-200" anchor_right="#cam,1,-150"  anchor_bottom="#cam,0,180" anchor_top="#cam,0,240" font_size="30" color="[white]" pivot="center" justify="right" parse_actions="true" max_line_count="1" text=" [action:permanent:PageTipsBack]" />
+			<label name="lblIndex"    depth="6" anchor_left="#cam,1,-150" anchor_right="#cam,1,-70"   anchor_bottom="#cam,0,180" anchor_top="#cam,0,240" font_size="30" color="[white]" pivot="center" justify="center" parse_actions="true" max_line_count="1" text="{index}/{count}" />
+			<label name="lblRight"    depth="6" anchor_left="#cam,1,-70"  anchor_right="#cam,1,-20"   anchor_bottom="#cam,0,180" anchor_top="#cam,0,240" font_size="30" color="[white]" pivot="center" justify="left" parse_actions="true" max_line_count="1" text="[action:permanent:PageTipsForward] " />
+
+			<label name="lblText"     depth="6" anchor_left="#cam,0,20"   anchor_right="#cam,1,-20"   anchor_bottom="#cam,0,20"  anchor_top="#cam,0,170" font_size="32" justify="left" parse_actions="true" actions_default_format="( [e61a16]###[-] )" spacing_y="5" text="{text}" />
+		</rect>
+	</set>
 </HellsJanitor>
 
 

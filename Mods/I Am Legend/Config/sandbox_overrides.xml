@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <HellsJanitor>
 	<append xpath="/sandbox_overrides">
-		<preset name="IAmLegend" localized_name="IAmLegendPreset" description="Desired settings for the I Am Legend mod" description_key="IAmLegendDesc" icon="" code="AAPABBDBUAGCGGAFANBBIDBMCBNABZICAADMAEYAEXGFCBEWAFJAEOAFKAEPAEQAEUAEVAZABZBHZCDZDC" default="true"/>
+		<preset name="IAmLegend" localized_name="IAmLegendPreset" description="Desired settings for the I Am Legend mod" description_key="IAmLegendDesc" icon="" code="AAPABBDAMGBUAGCGGAFANBBIDBMCBNABZICAACHADMAEYAEXGFCBEWAFJAEOAFKAEPAEQAEUAEVAZABZBHZCDZDC" default="true"/>
 		<!-- <sandbox_override option="RangedDamage"/> -->
 		<!-- <sandbox_override option="MeleeDamage"/> -->
 		<!-- <sandbox_override option="BlockDamage"/> -->
