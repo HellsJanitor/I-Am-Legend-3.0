@@ -24,7 +24,7 @@ When night falls, you'll want to be inside and well hidden. Dark Seekers will be
 
 ## DARKSEEKERS
 
-There are 5 types of Dark Seeker:Normal (both male & female), Hunter, Alpha, Spitter, and Wight.
+There are 5 types of Dark Seeker: Normal (both male & female), Hunter, Alpha, Spitter, and Wight.
 
  - Normal Dark Seekers are various humans, infected by KV. They have different characteristics, such as movement speed, movement type, and health, but are effectively the 'grunts' of the Dark Seekers.
  
@@ -33,7 +33,7 @@ There are 5 types of Dark Seeker:Normal (both male & female), Hunter, Alpha, Spi
  - Alphas are bigger, tougher, and more muscular, but can be just as fast.
  
  - Spitters have evolved to launch acidic projectiles at whatever they're hunting, and when damaged, have a tendency to explode, damaging anything around them.
- They are more skeletal than 'normals', but they look more animalistic, with mandibles instead of a mouth.
+ They are more skeletal than 'normals' and look more animalistic, with mandibles instead of a mouth.
  
  - There are also special variants of Alphas, known as Wights. These guys are fast, strong, and almost impossible to stun.
  
@@ -43,9 +43,9 @@ There are 5 types of Dark Seeker:Normal (both male & female), Hunter, Alpha, Spi
  
  - Radiated, characterized by their green glow. As tough as feral variants, Radiated Dark Seekers can regenerate health at an alarming rate.
  
- - Charged, with an blue-ish glow, are tougher still than Radiated. They have evolved to be stronger and faster, and hit *hard*. They too have regenerative properties.
+ - Charged, with a bluish glow, are tougher still than Radiated. They have evolved to be stronger and faster, and hit *hard*. They too have regenerative properties.
  
- - Infernals have an orange glow, and are tougher again. They can hit blocks with increased strength, tearing through buildings. Infernals also regenerate their health over time.
+ - Infernals have an orange glow and are tougher again. They can hit blocks with increased strength, tearing through buildings. Infernals also regenerate their health over time.
  
 # GAMEPLAY
 
@@ -57,14 +57,14 @@ Cash still works in vending machines.
 
 By default, there are no quests. Trader compounds exist, as do the traders, which can be used to turn in challenges and claim rewards should you enable that feature from the sandbox options menu.
 
-Any sandbox options in grey are disabled, and cannot be changed. 90% of the mod's functionality comes from these options, but you are free to change any of the others (see the note below).
+Any sandbox options in grey are disabled and cannot be changed. 90% of the mod's functionality comes from these options, but you are free to change any of the others (see the note below).
 
-At night, the Darkseekers will spawn, and there will be a LOT of them; 5x more than the vanilla game. Staying inside, and staying hidden, at night is advisable.
+At night, the Darkseekers will spawn, and there will be a LOT of them; 5x more than the vanilla game. Staying inside and staying hidden at night is advisable.
 
 Skills are a hybrid system of perk points and action skills. 50% of your skills come from your perks, and the other 50% from your skill. The more you use certain tools and weapons, the more adept you are at using them.
 
 You will spawn with a companion - a German Shepherd dog. Your dog must be fed, watered, and kept safe. Keep a close eye on the dog's stats, especially in combat.
-Your companion will level up the same way you do, and will earn perk points over time. Use these points to increase things like:
+Your companion will level up the same way you do and will earn perk points over time. Use these points to increase things like:
 
  - Max health
 
@@ -72,7 +72,7 @@ Your companion will level up the same way you do, and will earn perk points over
 
  - Health regen
 
-However, if Samantha should die ... she'll be **gone for good**, however, there is a **revivial bandage** that can be used to save your fallen companion, as a last resort.
+However, if Samantha should die ... she'll be **gone for good**. There is a **revival bandage** that can be used to save your fallen companion, as a last resort.
 
 >[!NOTE]
 >The mod comes with a built-in sandbox preset, which is the preferred and recommended way to play. The sandbox settings provided are a deliberate choice.
@@ -100,9 +100,9 @@ This is his legend.
 
 The mod comes pre-packaged in a "Mods" folder. Simply delete your existing mods folder, and copy the contents of the .zip file to that previous location.
 
-# MOD COMPATABILITY
+# MOD COMPATIBILITY
 
-The mod has been tested with AGF's HUD mod, and with POI Scourge Lite. Compatibilty with other mods is **not** guaranteed, so use other mods at your own risk.
+The mod has been tested with AGF's HUD mod and with POI Scourge Lite. Compatibility with other mods is **not** guaranteed, so use other mods at your own risk.
 
 ## CREDITS
 
